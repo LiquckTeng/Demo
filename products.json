@@ -1,0 +1,145 @@
+[
+  {
+    "id":"HAP",
+    "img_url":"img/hap.png",
+    "name": "汉得应用开发平台" ,
+    "abbreviation":"HAP",
+    "phone": "18521506522",
+    "master": "牛佳庆",
+    "department": "TECH.研发中心",
+    "position":"应用框架组组长",
+    "product_intro": "汉得应用开发平台（HAND Application Platform）是汉得公司为了应对移动互联网化、应用云端化、海量数据化和数字化服务转型的应用开发平台，是中台化产品和应用开发的基础平台。HAP采用开源的Java EE技术体系，平台设计灵活可扩展、可移植、可应对高并发需求。",
+    "customerVaules": [
+      "一站式开发平台",
+      "企业级流程解决方案 ",
+      "丰富的系统集成接口",
+      "开箱即用的系统平台"
+    ],
+    "summary": "一站式企业级应用快速开发平台"
+  },
+  {
+    "id":"HAP_CLOUD",
+    "img_url":"img/hap_cloud.png",
+    "name": "汉得云应用开发平台",
+    "abbreviation":"HAP Cloud",
+    "phone": "15618689455",
+    "master": "刘海螺",
+    "department": "TECH.研发中心",
+    "position":"研发中心副总经理",
+    "product_intro": "汉得云应用开发平台（HAND Application Platform Cloud）是汉得公司基于多年企业应用服务的经验，面向微服务架构思想和分布式应用架构研发的分布式应用开发平台，以满足应用微服务化和混合云IT架构分布式应用的开发。",
+    "customerVaules": [
+      "控制项目复杂度",
+      "适应灵活多变的业务需求",
+      "独立部署，提升效率",
+      "业务模块化，加速迭代",
+      "错误隔离"
+    ],
+    "summary": "面向微服务架构的分布式应用开发平台"
+  },
+  {
+    "id":"HCMP",
+    "img_url":"img/hcmp.png",
+    "name": "汉得融合云治理平台",
+    "abbreviation":"HCMP",
+    "product_intro": "汉得融合云治理平台（Hand Cloud Management Platforms）是一种管理公有云、私有云和混合云环境的整合性产品。产品在接入主流云厂商的IaaS、PaaS服务的同时，增加了在线架构、智能预警、成本优化等特色功能，帮助企业管好云资源，用好云服务，控好云成本。",
+    "customerVaules": [
+      "所有的云资源，同样的操作",
+      "账单合并，更多优惠，降低费用，减轻付款周期和财务工作量",
+      "快速构建成熟解决方案应用环境,降低架构设计时间和成本",
+      "规范公司的公有云和私有云资源申请、释放、费用核算流程",
+      "云资源监控，主动运维，提供优化建议，提升资源利用率，减少资源浪费，降低成本"
+    ],
+    "master": "柳进",
+    "phone": "18611139193",
+    "department": "TECH.云和物联网技术中心",
+    "position":"副总监",
+    "summary": "统一管理企业混合云资源的云治理平台"
+  },
+  {
+    "id":"HIP",
+    "img_url":"img/hip.png",
+    "name": "汉得基础架构平台",
+    "abbreviation":"HIP",
+    "phone": "18692219865",
+    "master": "刘海伟",
+    "department": "TECH.研发中心",
+    "position":"基础架构组组长",
+    "product_intro": "汉得基础架构平台 (HAND Infrastructure Platform) 是汉得公司的DevOps企业级解决方案，提供开发管理、持续集成、持续部署、持续发布、集群管理等功能，可以有效提升企业软件交付效率，帮助企业实现IT数字化运营。",
+    "customerVaules": [
+      "提供PaaS开发服务",
+      "统一的开发管理",
+      "帮助企业IT实现数字化运营"
+    ],
+    "summary": "提升交付效率的DevOps解决方案"
+  },
+  {
+    "id":"HiRP",
+    "img_url":"img/hirp.png",
+    "name": "汉得综合报表平台",
+    "abbreviation":"HiRP",
+    "phone": "18601777272",
+    "master": "甘闪闪",
+    "department": "TECH.研发中心",
+    "position":"数字化分析组组长",
+    "product_intro": "汉得综合报表平台（HAND Integration Report Platform）是一套企业数据分析和展现工具，它包含管理驾驶舱、自助分析、制式报表和打印报表等功能，为企业提供全方位的数据分析和展现服务。",
+    "customerVaules": [
+      "智能报表",
+      "动态分析系统",
+      "集成展现平台",
+      "企业信息系统顶层构件"
+    ],
+    "summary": "企业数据分析和展现工具"
+  },
+  {
+    "id":"HMAP",
+    "img_url":"img/hmap.png",
+    "name": "海马移动解决方案" ,
+    "abbreviation":"海马云汇",
+    "product_intro": "海马云汇（HMAP Cloud）是汉得自研的企业移动门户产品，满足企业在移动子应用管理、移动安全管理、移动内容管理、移动运维管理等方面的基本要求，除拥有企业开箱即用的标准功能外，同时拥有汉得在各行业、各领域的基于大型ERP厂商成熟产品和汉得自有产品的移动解决方案。",
+    "customerVaules": [
+      "成熟的行业、领域移动解决方案汇集之所",
+      "屏蔽企业移动门户建设的主要开发难点和通用管理功能，让企业专注于业务功能开发",
+      "满足私有化部署需求，让所有数据掌握在自己手中"
+    ],
+    "master": "何鑫铭",
+    "phone": "18601781838",
+    "department": "TECH.移动技术中心",
+    "position":"移动中心副总经理",
+    "summary": "一站式企业移动门户平台建设方案"
+  },
+  {
+    "id":"HMDM",
+    "img_url":"img/hmdm.png",
+    "name": "汉得主数据管理系统",
+    "abbreviation":"HMDM",
+    "master": "汤峰",
+    "phone": "18684743221",
+    "department": "TECH.SAP技术中心",
+    "position":"开发中心经理",
+    "product_intro": "汉得主数据管理系统（Hand Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "customerVaules": [
+      "集中化的主数据处理管理平台，解决企业信息孤岛",
+      "灵活可配置的工作流，贯穿整个主数据治理过程，实现企业定制化治理流程",
+      "数据模型定义，更为人性化的数据模型设置界面，结构化菜单以及丰富的组件库能够帮助用户更快的完成模型设置"
+    ],
+    "summary": "灵活、安全、集中的主数据管理平台"
+  },
+  {
+    "id":"HSP",
+    "img_url":"img/hsp.png",
+    "name": "汉得服务治理平台",
+    "abbreviation":"HSP",
+    "phone": "18825166125",
+    "master": "张超",
+    "department": "TECH.ORA技术中心",
+    "position":"研发组经理",
+    "product_intro": "HSP汉得服务治理平台。构建企业内部服务资产库，对服务进行完整生命周期管理及监控的综合服务治理平台。",
+    "customerVaules": [
+      "搭建SOA平台，实现服务的规范化、标准化、可监控、可预警，提升IT运维的敏捷度",
+      "提升业务流程效率，打通业务系统间数据传输的壁垒，加速信息流通，提升业务流程执行效率",
+      "实现服务资产库，在统一平台实现服务的全生命周期管理",
+      "提升数据安全性，满足信息服务行业对安全的额外关注与要求"
+    ],
+    "summary": "管理及监控企业服务的治理平台"
+  }
+]

@@ -37,25 +37,6 @@
     "summary": "面向微服务架构的分布式应用开发平台"
   },
   {
-    "id":"HCMP",
-    "img_url":"img/hcmp.png",
-    "name": "汉得融合云治理平台",
-    "abbreviation":"HCMP",
-    "product_intro": "汉得融合云治理平台（HAND Cloud Management Platforms）是一种管理公有云、私有云和混合云环境的整合性产品。产品在接入主流云厂商的IaaS、PaaS服务的同时，增加了在线架构、智能预警、成本优化等特色功能，帮助企业管好云资源，用好云服务，控好云成本。",
-    "customerVaules": [
-      "所有的云资源，同样的操作",
-      "账单合并，更多优惠，降低费用，减轻付款周期和财务工作量",
-      "快速构建成熟解决方案应用环境,降低架构设计时间和成本",
-      "规范公司的公有云和私有云资源申请、释放、费用核算流程",
-      "云资源监控，主动运维，提供优化建议，提升资源利用率，减少资源浪费，降低成本"
-    ],
-    "master": "柳进",
-    "phone": "18611139193",
-    "department": "TECH.云和物联网技术中心",
-    "position":"副总监",
-    "summary": "统一管理企业混合云资源的云治理平台"
-  },
-  {
     "id":"HIP",
     "img_url":"img/hip.png",
     "name": "汉得基础架构平台",
@@ -108,21 +89,23 @@
     "summary": "一站式企业移动门户平台建设方案"
   },
   {
-    "id":"HMDM",
-    "img_url":"img/hmdm.png",
-    "name": "汉得主数据管理系统",
-    "abbreviation":"HMDM",
-    "master": "汤峰",
-    "phone": "18684743221",
-    "department": "TECH.SAP技术中心",
-    "position":"开发中心经理",
-    "product_intro": "汉得主数据管理系统（HAND Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "id":"HCMP",
+    "img_url":"img/hcmp.png",
+    "name": "汉得融合云治理平台",
+    "abbreviation":"HCMP",
+    "product_intro": "汉得融合云治理平台（HAND Cloud Management Platforms）是一种管理公有云、私有云和混合云环境的整合性产品。产品在接入主流云厂商的IaaS、PaaS服务的同时，增加了在线架构、智能预警、成本优化等特色功能，帮助企业管好云资源，用好云服务，控好云成本。",
     "customerVaules": [
-      "集中化的主数据处理管理平台，解决企业信息孤岛",
-      "灵活可配置的工作流，贯穿整个主数据治理过程，实现企业定制化治理流程",
-      "数据模型定义，更为人性化的数据模型设置界面，结构化菜单以及丰富的组件库能够帮助用户更快的完成模型设置"
+      "所有的云资源，同样的操作",
+      "账单合并，更多优惠，降低费用，减轻付款周期和财务工作量",
+      "快速构建成熟解决方案应用环境,降低架构设计时间和成本",
+      "规范公司的公有云和私有云资源申请、释放、费用核算流程",
+      "云资源监控，主动运维，提供优化建议，提升资源利用率，减少资源浪费，降低成本"
     ],
-    "summary": "灵活、安全、集中的主数据管理平台"
+    "master": "柳进",
+    "phone": "18611139193",
+    "department": "TECH.云和物联网技术中心",
+    "position":"副总监",
+    "summary": "统一管理企业混合云资源的云治理平台"
   },
   {
     "id":"HSP",
@@ -141,5 +124,22 @@
       "提升数据安全性，满足信息服务行业对安全的额外关注与要求"
     ],
     "summary": "管理及监控企业服务的治理平台"
+  },
+  {
+    "id":"HMDM",
+    "img_url":"img/hmdm.png",
+    "name": "汉得主数据管理系统",
+    "abbreviation":"HMDM",
+    "master": "汤峰",
+    "phone": "18684743221",
+    "department": "TECH.SAP技术中心",
+    "position":"开发中心经理",
+    "product_intro": "汉得主数据管理系统（HAND Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "customerVaules": [
+      "集中化的主数据处理管理平台，解决企业信息孤岛",
+      "灵活可配置的工作流，贯穿整个主数据治理过程，实现企业定制化治理流程",
+      "数据模型定义，更为人性化的数据模型设置界面，结构化菜单以及丰富的组件库能够帮助用户更快的完成模型设置"
+    ],
+    "summary": "灵活、安全、集中的主数据管理平台"
   }
 ]

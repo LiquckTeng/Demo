@@ -222,7 +222,7 @@
   },
   {
     "id": "HMAP_CLOUD",
-    "product_abbreviation": "HMAP Cloud",
+    "product_abbreviation": "海马云汇",
     "img_path": "/img/list_hmapcloud.png",
     "call_img": "/img/icon_hmapcloud.png",
     "detail_img": "/img/detail_hmapcloud.png",
@@ -277,7 +277,7 @@
     "product_chinese_name": "汉得主数据管理系统",
     "product_name": "HMDM",
     "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmdm",
-    "product_intro": "据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "product_intro": "汉得主数据管理系统（Hand Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
     "functions": [
       {
         "title": "组织管理",

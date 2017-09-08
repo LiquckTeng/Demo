@@ -31,7 +31,7 @@
     "product_summary": "一站式企业级应用快速开发平台",
     "product_abbreviation": "HAP",
     "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hap",
-    "product_name": "HAP",
+    "product_name": "HAP（HAND Application Platform）",
     "img_path": "/img/list_hap.png",
     "call_img": "/img/icon_hap.png",
     "detail_img": "/img/detail_hap.png"
@@ -76,10 +76,177 @@
     "product_summary": "面向微服务架构的分布式应用开发平台",
     "product_abbreviation": "HAP Cloud",
     "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hapcloud",
-    "product_name": "HAP Cloud",
+    "product_name": "HAP (HAND Application Platform) Cloud",
     "img_path": "/img/list_hapcloud.png",
     "call_img": "/img/icon_hapcloud.png",
     "detail_img": "/img/detail_hapcloud.png"
+  },
+  {
+    "id":"HIP",
+    "name": "汉得基础架构平台",
+    "abbreviation":"HIP",
+    "phone": "18692219865",
+    "master": "刘海伟",
+    "department": "TECH.研发中心",
+    "position":"基础架构组组长",
+    "product_intro": "汉得基础架构平台 (HAND Infrastructure Platform) 是汉得公司的DevOps企业级解决方案，提供开发管理、持续集成、持续部署、持续发布、集群管理等功能，可以有效提升企业软件交付效率，帮助企业实现IT数字化运营。",
+    "customerVaules": [
+      "提供PaaS开发服务",
+      "统一的开发管理",
+      "帮助企业IT实现数字化运营"
+    ],
+    "functions": [
+      {
+        "title": "开发管理",
+        "content": "<img class=\"list_point_icon2\">可以在项目下管理多个代码库，管理项目成员和角色。<br/><img class=\"list_point_icon2\">管理Git代码库及其分支，标签和Wiki。<br/><img class=\"list_point_icon2\">镜像库管理，能够查看和删除当前项目的镜像。<br/><img class=\"list_point_icon2\">迭代计划管理，工单管理，通过标签筛选工单，看板来跟踪工单的进度。<br/><img class=\"list_point_icon2\">合并请求管理，可以关联迭代计划和标签，可以查看相关的持续集成流水线的状态。"
+      },
+      {
+        "title": "持续集成",
+        "content": "<img class=\"list_point_icon2\">支持不同分支触发的流水线的任务不一样，分支筛选规则可以按照正则表达式。<br/><img class=\"list_point_icon2\">支持自动化构建，计算逻辑打包，构建Docker镜像。<br/><img class=\"list_point_icon2\">支持自动化单元测试，集成测试，保证要合并的代码不会影响原有功能。"
+      },
+      {
+        "title": "持续发布",
+        "content": "<img class=\"list_point_icon2\">支持自动化发布多个环境，预览环境、测试环境和正式环境。<br/><img class=\"list_point_icon2\">支持手工确认部署到生产环境。<br/><img class=\"list_point_icon2\">支持不同环境使用不同的分支或者标签。"
+      },
+      {
+        "title": "集群管理",
+        "content": "<img class=\"list_point_icon2\">容器，容器编排，在集群上快速调度和运行。<br/><img class=\"list_point_icon2\">网络，在集群里的容器都有唯一的IP，都在一个子网里，跨节点的容器之间可以通过容器IP相互通信。<br/><img class=\"list_point_icon2\">存储，可以把不同的存储解决方案虚拟化成卷，绑定到容器的指定目录里。<br/><img class=\"list_point_icon2\">节点，集群管理节点，可以方便的添加节点和删除节点，而对应用是透明的。<br/><img class=\"list_point_icon2\">配置，包含配置和秘钥，在集群中集中管理，动态绑定到容器里。<br/><img class=\"list_point_icon2\">滚动更新，保证更新时有运行的容器可用。<br/><img class=\"list_point_icon2\">健康检查，保证容器是健康的，可访问的。<br/><img class=\"list_point_icon2\">服务命名和发现，可以定义服务，服务有自己的IP，和容器IP属于不同的子网。服务代理一组容器（通过服务定义的选择器选择的容器），其它应用访问直接用服务名即可。<br/><img class=\"list_point_icon2\">负载均衡，可以通过定义服务来达到负载均衡的目的。"
+      }
+    ],
+    "product_chinese_name": "汉得基础架构平台",
+    "product_summary": "提升交付效率的DevOps解决方案",
+    "product_abbreviation": "HIP",
+    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hip",
+    "product_name": " HIP (Hand Infrastructure Platform)",
+    "img_path": "/img/list_hip.png",
+    "call_img": "/img/icon_hip.png",
+    "detail_img": "/img/detail_hip.png"
+  },
+  {
+    "product_intro": "汉得综合报表平台（HAND Integration Report Platform）是一套企业数据分析和展现工具，它包含管理驾驶舱、自助分析、制式报表和打印报表等功能，为企业提供全方位的数据分析和展现服务。",
+    "customerVaules": [
+      "智能报表",
+      "动态分析系统",
+      "集成展现平台",
+      "企业信息系统顶层构件"
+    ],
+    "functions": [
+      {
+        "title": "汉得管理驾驶舱平台",
+        "content": "管理驾驶舱秉承敏捷BI的理念，支持28种表格和图表的展现样式，为客户提供了统一、集中的数据展现服务，支持企业将信息快速高效地传递给相关人员，帮助他们快速的了解企业的生产经营情况，以便做出相关决策。"
+      },
+      {
+        "title": "汉得自助分析平台",
+        "content": "自助分析，可以为企业业务人员提供一个主动获取数据的“窗口”，业务人员根据业务需求，快速的查询数据、获取报表，减少与IT人员的沟通时间，提高工作效率；同时，类Excel的操作，更加容易学习上手。"
+      },
+      {
+        "title": "汉得通用报表平台",
+        "content": "根据汉得商务智能系统的实施经验，企业很大一部分报表需求是带有格式的制式报表和打印报表。汉得通用报表平台，提供拥有复杂表头的制式报表；并且，提供标准打印报表，支持A4打印，描述性分析报告。"
+      }
+    ],
+    "product_chinese_name": "汉得综合报表平台",
+    "product_summary": "企业数据分析和展现工具",
+    "product_abbreviation": "HiRP",
+    "master": "许凯文",
+    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hirp",
+    "product_name": "HiRP (HAND Integration Report Platform）",
+
+    "img_path": "/img/list_hirp.png",
+    "call_img": "/img/icon_hirp.png",
+    "detail_img": "/img/detail_hirp.png",
+    "phone": "18270918324",
+    "id": "HIRP",
+    "department": "TECH.研发中心",
+    "position":"数字化分析组组长"
+  },
+  {
+    "id": "HMAP_CLOUD",
+    "product_abbreviation": "HMAP Cloud",
+    "img_path": "/img/list_hmapcloud.png",
+    "call_img": "/img/icon_hmapcloud.png",
+    "detail_img": "/img/detail_hmapcloud.png",
+    "product_summary": "一站式企业移动门户平台建设方案",
+    "product_chinese_name": "汉得移动云应用开发平台",
+    "product_name": "海马云汇",
+    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmapcloud",
+    "product_intro": "海马云汇（HMAP Cloud）是汉得自研的企业移动门户产品，满足企业在移动子应用管理、移动安全管理、移动内容管理、移动运维管理等方面的基本要求，除拥有企业开箱即用的标准功能外，同时拥有汉得在各行业、各领域的基于大型ERP厂商成熟产品和汉得自有产品的移动解决方案。",
+    "functions": [
+      {
+        "title": "组织管理",
+        "content": "Rest api类型接口开放，支持与企业组织架构信息同步；支持excel导入和导出，支持手动录入；支持人员标签设置等"
+      },
+      {
+        "title": "设备管理",
+        "content": "设备可用性检查；设备信息采集；设备验证；设备注册；设备绑定；设备注销；设备禁用； 数据擦除"
+      },
+      {
+        "title": "运维管理",
+        "content": "多种子应用页面类型；多种更新支持；显示更新角标；子应用版本迭代；允许用户自定义排序"
+      },
+      {
+        "title": "应用管理",
+        "content": "支持接口类型丰富；数据加密，服务安全；接口规范，接口日志；模拟接口等"
+      },
+      {
+        "title": "开发中心",
+        "content": "日志管理，如日志采集，日志可视化；监控管理，如主机监控，组件监控；灰度发布"
+      },
+      {
+        "title": "服务网关",
+        "content": "开发文档，如服务端开发手册；前端组件库；原生插件，如通讯插件，相机插件"
+      }
+    ],
+    "customerVaules": [
+      "成熟的行业、领域移动解决方案汇集之所",
+      "屏蔽企业移动门户建设的主要开发难点和通用管理功能，让企业专注于业务功能开发",
+      "满足私有化部署需求，让所有数据掌握在自己手中"
+    ],
+    "master": "何鑫铭",
+    "phone": "18601781838",
+    "department": "TECH.移动技术中心",
+    "position":"移动中心副总经理"
+  },
+  {
+
+    "id": "HSP",
+    "product_abbreviation": "HSP",
+    "img_url":"img/hsp.png",
+    "img_path": "/img/list_hsp.png",
+    "call_img": "/img/icon_hsp.png",
+    "detail_img": "/img/detail_hsp.png",
+    "product_summary": "管理及监控企业服务的治理平台",
+    "product_chinese_name": "汉得服务治理平台",
+    "product_name": "HSP",
+    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hsp",
+    "functions": [
+      {
+        "title": "资产管理",
+        "content": "业务对象管理；总线管理；服务资产管理；服务权限管理；服务路由管理；服务流量管控"
+      },
+      {
+        "title": "预警监控管理",
+        "content": "总线监控； 服务监控；总线预警；服务预警； 预警阈值管理"
+      },
+      {
+        "title": "基础配置功能",
+        "content": "用户管理；系统维护；权限管理；值列表管理；属性管理"
+      },
+      {
+        "title": "分析管理",
+        "content": "总线分析；服务分析；运行指标分析"
+      }
+    ],
+    "product_intro": "汉得服务治理平台(HSP)是构建企业内部服务资产库，对服务进行完整生命周期管理及监控的综合服务治理平台。",
+    "customerVaules": [
+      "搭建SOA平台，实现服务的规范化、标准化、可监控、可预警，提升IT运维的敏捷度",
+      "提升业务流程效率，打通业务系统间数据传输的壁垒，加速信息流通，提升业务流程执行效率",
+      "实现服务资产库，在统一平台实现服务的全生命周期管理",
+      "提升数据安全性，满足信息服务行业对安全的额外关注与要求"
+    ],
+    "master": "张超",
+    "phone": "18825166125",
+    "department": "TECH.ORA技术中心",
+    "position":"研发组经理"
   },
   {
     "id": "HCMP",
@@ -143,131 +310,6 @@
     ]
   },
   {
-    "id":"HIP",
-    "name": "汉得基础架构平台",
-    "abbreviation":"HIP",
-    "phone": "18692219865",
-    "master": "刘海伟",
-    "department": "TECH.研发中心",
-    "position":"基础架构组组长",
-    "product_intro": "汉得基础架构平台 (HAND Infrastructure Platform) 是汉得公司的DevOps企业级解决方案，提供开发管理、持续集成、持续部署、持续发布、集群管理等功能，可以有效提升企业软件交付效率，帮助企业实现IT数字化运营。",
-    "customerVaules": [
-      "提供PaaS开发服务",
-      "统一的开发管理",
-      "帮助企业IT实现数字化运营"
-    ],
-    "functions": [
-      {
-        "title": "开发管理",
-        "content": "<img class=\"list_point_icon2\">可以在项目下管理多个代码库，管理项目成员和角色。<br/><img class=\"list_point_icon2\">管理Git代码库及其分支，标签和Wiki。<br/><img class=\"list_point_icon2\">镜像库管理，能够查看和删除当前项目的镜像。<br/><img class=\"list_point_icon2\">迭代计划管理，工单管理，通过标签筛选工单，看板来跟踪工单的进度。<br/><img class=\"list_point_icon2\">合并请求管理，可以关联迭代计划和标签，可以查看相关的持续集成流水线的状态。"
-      },
-      {
-        "title": "持续集成",
-        "content": "<img class=\"list_point_icon2\">支持不同分支触发的流水线的任务不一样，分支筛选规则可以按照正则表达式。<br/><img class=\"list_point_icon2\">支持自动化构建，计算逻辑打包，构建Docker镜像。<br/><img class=\"list_point_icon2\">支持自动化单元测试，集成测试，保证要合并的代码不会影响原有功能。"
-      },
-      {
-        "title": "持续发布",
-        "content": "<img class=\"list_point_icon2\">支持自动化发布多个环境，预览环境、测试环境和正式环境。<br/><img class=\"list_point_icon2\">支持手工确认部署到生产环境。<br/><img class=\"list_point_icon2\">支持不同环境使用不同的分支或者标签。"
-      },
-      {
-        "title": "集群管理",
-        "content": "<img class=\"list_point_icon2\">容器，容器编排，在集群上快速调度和运行。<br/><img class=\"list_point_icon2\">网络，在集群里的容器都有唯一的IP，都在一个子网里，跨节点的容器之间可以通过容器IP相互通信。<br/><img class=\"list_point_icon2\">存储，可以把不同的存储解决方案虚拟化成卷，绑定到容器的指定目录里。<br/><img class=\"list_point_icon2\">节点，集群管理节点，可以方便的添加节点和删除节点，而对应用是透明的。<br/><img class=\"list_point_icon2\">配置，包含配置和秘钥，在集群中集中管理，动态绑定到容器里。<br/><img class=\"list_point_icon2\">滚动更新，保证更新时有运行的容器可用。<br/><img class=\"list_point_icon2\">健康检查，保证容器是健康的，可访问的。<br/><img class=\"list_point_icon2\">服务命名和发现，可以定义服务，服务有自己的IP，和容器IP属于不同的子网。服务代理一组容器（通过服务定义的选择器选择的容器），其它应用访问直接用服务名即可。<br/><img class=\"list_point_icon2\">负载均衡，可以通过定义服务来达到负载均衡的目的。"
-      }
-    ],
-    "product_chinese_name": "汉得基础架构平台",
-    "product_summary": "提升交付效率的DevOps解决方案",
-    "product_abbreviation": "HIP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hip",
-    "product_name": "HIP",
-    "img_path": "/img/list_hip.png",
-    "call_img": "/img/icon_hip.png",
-    "detail_img": "/img/detail_hip.png"
-  },
-  {
-    "product_intro": "汉得综合报表平台（HAND Integration Report Platform）是一套企业数据分析和展现工具，它包含管理驾驶舱、自助分析、制式报表和打印报表等功能，为企业提供全方位的数据分析和展现服务。",
-    "customerVaules": [
-      "智能报表",
-      "动态分析系统",
-      "集成展现平台",
-      "企业信息系统顶层构件"
-    ],
-    "functions": [
-      {
-        "title": "汉得管理驾驶舱平台",
-        "content": "管理驾驶舱秉承敏捷BI的理念，支持28种表格和图表的展现样式，为客户提供了统一、集中的数据展现服务，支持企业将信息快速高效地传递给相关人员，帮助他们快速的了解企业的生产经营情况，以便做出相关决策。"
-      },
-      {
-        "title": "汉得自助分析平台",
-        "content": "自助分析，可以为企业业务人员提供一个主动获取数据的“窗口”，业务人员根据业务需求，快速的查询数据、获取报表，减少与IT人员的沟通时间，提高工作效率；同时，类Excel的操作，更加容易学习上手。"
-      },
-      {
-        "title": "汉得通用报表平台",
-        "content": "根据汉得商务智能系统的实施经验，企业很大一部分报表需求是带有格式的制式报表和打印报表。汉得通用报表平台，提供拥有复杂表头的制式报表；并且，提供标准打印报表，支持A4打印，描述性分析报告。"
-      }
-    ],
-    "product_chinese_name": "汉得综合报表平台",
-    "product_summary": "企业数据分析和展现工具",
-    "product_abbreviation": "HiRP",
-    "master": "许凯文",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hirp",
-    "product_name": "HiRP",
-
-    "img_path": "/img/list_hirp.png",
-    "call_img": "/img/icon_hirp.png",
-    "detail_img": "/img/detail_hirp.png",
-    "phone": "18270918324",
-    "id": "HIRP",
-    "department": "TECH.研发中心",
-    "position":"数字化分析组组长"
-  },
-  {
-    "id": "HMAP_CLOUD",
-    "product_abbreviation": "海马云汇",
-    "img_path": "/img/list_hmapcloud.png",
-    "call_img": "/img/icon_hmapcloud.png",
-    "detail_img": "/img/detail_hmapcloud.png",
-    "product_summary": "一站式企业移动门户平台建设方案",
-    "product_chinese_name": "汉得移动云应用开发平台",
-    "product_name": "海马云汇",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmapcloud",
-    "product_intro": "海马云汇（HMAP Cloud）是汉得自研的企业移动门户产品，满足企业在移动子应用管理、移动安全管理、移动内容管理、移动运维管理等方面的基本要求，除拥有企业开箱即用的标准功能外，同时拥有汉得在各行业、各领域的基于大型ERP厂商成熟产品和汉得自有产品的移动解决方案。",
-    "functions": [
-      {
-        "title": "组织管理",
-        "content": "Rest api类型接口开放，支持与企业组织架构信息同步；支持excel导入和导出，支持手动录入；支持人员标签设置等"
-      },
-      {
-        "title": "设备管理",
-        "content": "设备可用性检查；设备信息采集；设备验证；设备注册；设备绑定；设备注销；设备禁用； 数据擦除"
-      },
-      {
-        "title": "运维管理",
-        "content": "多种子应用页面类型；多种更新支持；显示更新角标；子应用版本迭代；允许用户自定义排序"
-      },
-      {
-        "title": "应用管理",
-        "content": "支持接口类型丰富；数据加密，服务安全；接口规范，接口日志；模拟接口等"
-      },
-      {
-        "title": "开发中心",
-        "content": "日志管理，如日志采集，日志可视化；监控管理，如主机监控，组件监控；灰度发布"
-      },
-      {
-        "title": "服务网关",
-        "content": "开发文档，如服务端开发手册；前端组件库；原生插件，如通讯插件，相机插件"
-      }
-    ],
-    "customerVaules": [
-      "成熟的行业、领域移动解决方案汇集之所",
-      "屏蔽企业移动门户建设的主要开发难点和通用管理功能，让企业专注于业务功能开发",
-      "满足私有化部署需求，让所有数据掌握在自己手中"
-    ],
-    "master": "何鑫铭",
-    "phone": "18601781838",
-    "department": "TECH.移动技术中心",
-    "position":"移动中心副总经理"
-  },
-  {
     "id": "HMDM",
     "product_abbreviation": "HMDM",
     "img_path": "/img/list_hmdm.png",
@@ -277,7 +319,7 @@
     "product_chinese_name": "汉得主数据管理系统",
     "product_name": "HMDM",
     "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmdm",
-    "product_intro": "汉得主数据管理系统（Hand Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "product_intro": "据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
     "functions": [
       {
         "title": "组织管理",
@@ -321,47 +363,5 @@
     "phone": "18684743221",
     "department": "TECH.SAP技术中心",
     "position":"开发中心经理"
-  },
-  {
-
-    "id": "HSP",
-    "product_abbreviation": "HSP",
-    "img_url":"img/hsp.png",
-    "img_path": "/img/list_hsp.png",
-    "call_img": "/img/icon_hsp.png",
-    "detail_img": "/img/detail_hsp.png",
-    "product_summary": "管理及监控企业服务的治理平台",
-    "product_chinese_name": "汉得服务治理平台",
-    "product_name": "HSP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hsp",
-    "functions": [
-      {
-        "title": "资产管理",
-        "content": "业务对象管理；总线管理；服务资产管理；服务权限管理；服务路由管理；服务流量管控"
-      },
-      {
-        "title": "预警监控管理",
-        "content": "总线监控； 服务监控；总线预警；服务预警； 预警阈值管理"
-      },
-      {
-        "title": "基础配置功能",
-        "content": "用户管理；系统维护；权限管理；值列表管理；属性管理"
-      },
-      {
-        "title": "分析管理",
-        "content": "总线分析；服务分析；运行指标分析"
-      }
-    ],
-    "product_intro": "汉得服务治理平台(HSP)是构建企业内部服务资产库，对服务进行完整生命周期管理及监控的综合服务治理平台。",
-    "customerVaules": [
-      "搭建SOA平台，实现服务的规范化、标准化、可监控、可预警，提升IT运维的敏捷度",
-      "提升业务流程效率，打通业务系统间数据传输的壁垒，加速信息流通，提升业务流程执行效率",
-      "实现服务资产库，在统一平台实现服务的全生命周期管理",
-      "提升数据安全性，满足信息服务行业对安全的额外关注与要求"
-    ],
-    "master": "张超",
-    "phone": "18825166125",
-    "department": "TECH.ORA技术中心",
-    "position":"研发组经理"
   }
 ]

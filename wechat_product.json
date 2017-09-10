@@ -30,7 +30,7 @@
     "product_chinese_name": "汉得应用开发平台",
     "product_summary": "一站式企业级应用快速开发平台",
     "product_abbreviation": "HAP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hap",
+    "doc_url": "http://eco.hand-china.com/doc/hap/latest/",
     "product_name": "HAP（HAND Application Platform）",
     "img_path": "../img/list_hap.png",
     "call_img": "../img/icon_hap.png",
@@ -75,7 +75,7 @@
     "product_chinese_name": "汉得云应用开发平台",
     "product_summary": "面向微服务架构的分布式应用开发平台",
     "product_abbreviation": "HAP Cloud",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hapcloud",
+    "doc_url": "http://eco.hand-china.com/doc/hap-cloud/latest/",
     "product_name": "HAP (HAND Application Platform) Cloud",
     "img_path": "/img/list_hapcloud.png",
     "call_img": "/img/icon_hapcloud.png",
@@ -116,7 +116,7 @@
     "product_chinese_name": "汉得基础架构平台",
     "product_summary": "提升交付效率的DevOps解决方案",
     "product_abbreviation": "HIP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hip",
+    "doc_url": "http://eco.hand-china.com/doc/hip/latest/",
     "product_name": " HIP (Hand Infrastructure Platform)",
     "img_path": "../img/list_hip.png",
     "call_img": "../img/icon_hip.png",
@@ -148,7 +148,7 @@
     "product_summary": "企业数据分析和展现工具",
     "product_abbreviation": "HiRP",
     "master": "许凯文",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hirp",
+    "doc_url": "http://eco.hand-china.com/doc/hirp/latest/",
     "product_name": "HiRP (HAND Integration Report Platform）",
 
     "img_path": "../img/list_hirp.png",
@@ -168,7 +168,7 @@
     "product_summary": "一站式企业移动门户平台建设方案",
     "product_chinese_name": "汉得移动云应用开发平台",
     "product_name": "海马云汇",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmapcloud",
+    "doc_url": "http://eco.hand-china.com/doc/hmap-cloud/latest/",
     "product_intro": "海马云汇（HMAP Cloud）是汉得自研的企业移动门户产品，满足企业在移动子应用管理、移动安全管理、移动内容管理、移动运维管理等方面的基本要求，除拥有企业开箱即用的标准功能外，同时拥有汉得在各行业、各领域的基于大型ERP厂商成熟产品和汉得自有产品的移动解决方案。",
     "functions": [
       {
@@ -217,7 +217,7 @@
     "product_summary": "管理及监控企业服务的治理平台",
     "product_chinese_name": "汉得服务治理平台",
     "product_name": "HSP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hsp",
+    "doc_url": "http://eco.hand-china.com/doc/hsp/latest/",
     "functions": [
       {
         "title": "资产管理",
@@ -269,7 +269,7 @@
     "product_summary": "统一管理企业混合云资源的云治理平台",
     "product_chinese_name": "汉得融合云治理平台",
     "product_name": "HCMP",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hcmp",
+    "doc_url": "http://eco.hand-china.com/doc/hcmp/latest/",
     "functions": [
       {
         "title": "多云管理",
@@ -318,7 +318,7 @@
     "product_summary": "灵活、安全、集中的主数据管理平台",
     "product_chinese_name": "汉得主数据管理系统",
     "product_name": "HMDM",
-    "doc_url": "http://hep-docs.cloud.saas.hand-china.com/hmdm",
+    "doc_url": "http://eco.hand-china.com/doc/hmdm/latest/",
     "product_intro": "据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
     "functions": [
       {

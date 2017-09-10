@@ -77,9 +77,9 @@
     "product_abbreviation": "HAP Cloud",
     "doc_url": "http://eco.hand-china.com/doc/hap-cloud/latest/",
     "product_name": "HAP (HAND Application Platform) Cloud",
-    "img_path": "/img/list_hapcloud.png",
-    "call_img": "/img/icon_hapcloud.png",
-    "detail_img": "/img/detail_hapcloud.png"
+    "img_path": "../img/list_hapcloud.png",
+    "call_img": "../img/icon_hapcloud.png",
+    "detail_img": "../img/detail_hapcloud.png"
   },
   {
     "id":"HIP",

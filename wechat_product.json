@@ -32,9 +32,9 @@
     "product_abbreviation": "HAP",
     "doc_url": "http://eco.hand-china.com/doc/hap/latest/",
     "product_name": "HAP（HAND Application Platform）",
-    "img_path": "../api/img/list_hap.png",
-    "call_img": "../api/img/icon_hap.png",
-    "detail_img": "../api/img/detail_hap.png"
+    "img_path": "../img/list_hap.png",
+    "call_img": "../img/icon_hap.png",
+    "detail_img": "../img/detail_hap.png"
   },
   {
     "id":"HAP_CLOUD",
@@ -77,9 +77,9 @@
     "product_abbreviation": "HAP Cloud",
     "doc_url": "http://eco.hand-china.com/doc/hap-cloud/latest/",
     "product_name": "HAP (HAND Application Platform) Cloud",
-    "img_path": "../api/img/list_hapcloud.png",
-    "call_img": "../api/img/icon_hapcloud.png",
-    "detail_img": "../api/img/detail_hapcloud.png"
+    "img_path": "../img/list_hapcloud.png",
+    "call_img": "../img/icon_hapcloud.png",
+    "detail_img": "../img/detail_hapcloud.png"
   },
   {
     "id":"HIP",
@@ -118,9 +118,9 @@
     "product_abbreviation": "HIP",
     "doc_url": "http://eco.hand-china.com/doc/hip/latest/",
     "product_name": " HIP (Hand Infrastructure Platform)",
-    "img_path": "../api/img/list_hip.png",
-    "call_img": "../api/img/icon_hip.png",
-    "detail_img": "../api/img/detail_hip.png"
+    "img_path": "../img/list_hip.png",
+    "call_img": "../img/icon_hip.png",
+    "detail_img": "../img/detail_hip.png"
   },
   {
     "product_intro": "汉得综合报表平台（HAND Integration Report Platform）是一套企业数据分析和展现工具，它包含管理驾驶舱、自助分析、制式报表和打印报表等功能，为企业提供全方位的数据分析和展现服务。",
@@ -151,9 +151,9 @@
     "doc_url": "http://eco.hand-china.com/doc/hirp/latest/",
     "product_name": "HiRP (HAND Integration Report Platform）",
 
-    "img_path": "../api/img/list_hirp.png",
-    "call_img": "../api/img/icon_hirp.png",
-    "detail_img": "../api/img/detail_hirp.png",
+    "img_path": "../img/list_hirp.png",
+    "call_img": "../img/icon_hirp.png",
+    "detail_img": "../img/detail_hirp.png",
     "phone": "18270918324",
     "id": "HIRP",
     "department": "TECH.研发中心",
@@ -162,9 +162,9 @@
   {
     "id": "HMAP_CLOUD",
     "product_abbreviation": "海马云汇",
-    "img_path": "../api/img/list_hmapcloud.png",
-    "call_img": "../api/img/icon_hmapcloud.png",
-    "detail_img": "../api/img/detail_hmapcloud.png",
+    "img_path": "../img/list_hmapcloud.png",
+    "call_img": "../img/icon_hmapcloud.png",
+    "detail_img": "../img/detail_hmapcloud.png",
     "product_summary": "一站式企业移动门户平台建设方案",
     "product_chinese_name": "汉得移动云应用开发平台",
     "product_name": "海马云汇",
@@ -210,10 +210,10 @@
 
     "id": "HSP",
     "product_abbreviation": "HSP",
-    "img_url":"../api/img/hsp.png",
-    "img_path": "../api/img/list_hsp.png",
-    "call_img": "../api/img/icon_hsp.png",
-    "detail_img": "../api/img/detail_hsp.png",
+    "img_url":"../img/hsp.png",
+    "img_path": "../img/list_hsp.png",
+    "call_img": "../img/icon_hsp.png",
+    "detail_img": "../img/detail_hsp.png",
     "product_summary": "管理及监控企业服务的治理平台",
     "product_chinese_name": "汉得服务治理平台",
     "product_name": "HSP",
@@ -263,9 +263,9 @@
     "department": "TECH.云和物联网技术中心",
     "position":"副总监",
     "product_abbreviation": "HCMP",
-    "img_path": "../api/img/list_hcmp.png",
-    "call_img": "../api/img/icon_hcmp.png",
-    "detail_img": "../api/img/detail_hcmp.png",
+    "img_path": "../img/list_hcmp.png",
+    "call_img": "../img/icon_hcmp.png",
+    "detail_img": "../img/detail_hcmp.png",
     "product_summary": "统一管理企业混合云资源的云治理平台",
     "product_chinese_name": "汉得融合云治理平台",
     "product_name": "HCMP",
@@ -312,9 +312,9 @@
   {
     "id": "HMDM",
     "product_abbreviation": "HMDM",
-    "img_path": "../api/img/list_hmdm.png",
-    "call_img": "../api/img/icon_hmdm.png",
-    "detail_img": "../api/img/detail_hmdm.png",
+    "img_path": "../img/list_hmdm.png",
+    "call_img": "../img/icon_hmdm.png",
+    "detail_img": "../img/detail_hmdm.png",
     "product_summary": "灵活、安全、集中的主数据管理平台",
     "product_chinese_name": "汉得主数据管理系统",
     "product_name": "HMDM",

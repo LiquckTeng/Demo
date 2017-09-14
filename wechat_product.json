@@ -31,7 +31,7 @@
     "product_summary": "一站式企业级应用快速开发平台",
     "product_abbreviation": "HAP",
     "doc_url": "http://eco.hand-china.com/doc/hap/latest/",
-    "product_name": "HAP（HAND Application Platform）",
+    "product_name": "HAP",
     "img_path": "/api/img/list_hap.png",
     "call_img": "/api/img/icon_hap.png",
     "detail_img": "/api/img/detail_hap.png"
@@ -76,7 +76,7 @@
     "product_summary": "面向微服务架构的分布式应用开发平台",
     "product_abbreviation": "HAP Cloud",
     "doc_url": "http://eco.hand-china.com/doc/hap-cloud/latest/",
-    "product_name": "HAP (HAND Application Platform) Cloud",
+    "product_name": "HAP Cloud",
     "img_path": "/api/img/list_hapcloud.png",
     "call_img": "/api/img/icon_hapcloud.png",
     "detail_img": "/api/img/detail_hapcloud.png"
@@ -117,7 +117,7 @@
     "product_summary": "提升交付效率的DevOps解决方案",
     "product_abbreviation": "HIP",
     "doc_url": "http://eco.hand-china.com/doc/hip/latest/",
-    "product_name": " HIP (Hand Infrastructure Platform)",
+    "product_name": " HIP ",
     "img_path": "/api/img/list_hip.png",
     "call_img": "/api/img/icon_hip.png",
     "detail_img": "/api/img/detail_hip.png"
@@ -149,7 +149,7 @@
     "product_abbreviation": "HiRP",
     "master": "许凯文",
     "doc_url": "http://eco.hand-china.com/doc/hirp/latest/",
-    "product_name": "HiRP (HAND Integration Report Platform）",
+    "product_name": "HiRP ",
 
     "img_path": "/api/img/list_hirp.png",
     "call_img": "/api/img/icon_hirp.png",
@@ -161,7 +161,7 @@
   },
   {
     "id": "HMAP_CLOUD",
-    "product_abbreviation": "海马云汇",
+    "product_abbreviation": "HMAP Cloud",
     "img_path": "/api/img/list_hmapcloud.png",
     "call_img": "/api/img/icon_hmapcloud.png",
     "detail_img": "/api/img/detail_hmapcloud.png",
@@ -319,7 +319,7 @@
     "product_chinese_name": "汉得主数据管理系统",
     "product_name": "HMDM",
     "doc_url": "http://eco.hand-china.com/doc/hmdm/latest/",
-    "product_intro": "据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
+    "product_intro": "汉得主数据管理系统（HAND Master Data Management）是汉得为了满足企业主数据统一管理的需要而潜心研发的主数据管理平台。基于汉得HAP框架，集成Spring、Spring MVC、MyBatis等开源技术，通过Maven、Liquibase、Jenkins等技术实现跨平台、跨DB、持续化部署。",
     "functions": [
       {
         "title": "组织管理",
